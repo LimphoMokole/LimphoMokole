@@ -19,10 +19,14 @@
 
 ### :man_technologist: About Me :
   
-  Hey there meet Limpho Brendan Mokole a software engineer student from Belgium campus ITversity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
-  - :telescope:I am a dedicated software developer with a passion for harnessing technology's transformative power. Alongside my expertise in software development, I'm also an avid tech enthusiast, delving into the realms of video editing with zeal.
+  Hey there! Meet Limpho Brendan Mokole — a software engineering student and data analyst from Belgium Campus iTversity.
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+  - :telescope:I am a dedicated software developer with a passion for harnessing technology's transformative power. Alongside my expertise in software development, I'm also a data analyst and avid tech enthusiast, delving into the realms of video editing with zeal.
 
 With a firm belief in technology's ability to shape a brighter future, I specialize not only in coding but also in crafting captivating visuals. From video editing to the creation of striking logos, posters, and more, I thrive on the creative process.
+
+In addition to my work as a software developer and visual creator, I’m also a data analyst — passionate about uncovering insights and driving informed decisions through data.
 
 As a perpetual learner, I eagerly seek insights from fellow enthusiasts, embracing adaptability and quick learning as pillars of progress. In the dynamic landscape of a fast-paced environment, I flourish, driven by the quest for innovation and excellence.
 
